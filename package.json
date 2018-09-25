@@ -1,6 +1,6 @@
 {
   "name": "@wearegenki/renovate-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "🤖 We Are Genki renovate bot preset",
   "repository": "https://github.com/WeAreGenki/renovate-config",
   "author": "Max Milton <max@wearegenki.com>",
