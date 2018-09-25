@@ -4,7 +4,7 @@ Sharable preset for the renovate bot. This makes it easier to change the config 
 
 Docs:
 
-- Renovate config options: <https://renovatebot.com/docs/configuration-options/#labels>
+- Renovate config options: <https://renovatebot.com/docs/configuration-options/>
 - Renovate sharable presets: <https://renovatebot.com/docs/config-presets/>
 
 ## Usage
