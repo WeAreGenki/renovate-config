@@ -1,0 +1,28 @@
+{
+  "name": "renovate-config",
+  "version": "1.0.0",
+  "description": "🤖 We Are Genki renovate bot preset",
+  "repository": "https://github.com/WeAreGenki/renovate-config",
+  "author": "Max Milton <max@wearegenki.com>",
+  "license": "MIT",
+  "renovate-config": {
+    "default": {
+      "extends": [
+        "config:base"
+      ],
+      "labels": [
+        "bot"
+      ],
+      "prHourlyLimit": 99,
+      "rangeStrategy": "auto",
+      "vulnerabilityAlerts": {
+        "labels": [
+          "security"
+        ],
+        "assignees": [
+          "@MaxMilton"
+        ]
+      }
+    }
+  }
+}
