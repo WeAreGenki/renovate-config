@@ -5,7 +5,7 @@
 
 # We Are Genki Renovate Bot Preset
 
-Sharable preset for the renovate bot 🤖. This makes it easier to change the config in one place rather than needing to update multiple projects.
+Sharable config preset for the renovate bot 🤖. This makes it easier to change the config in one place rather than needing to update multiple projects.
 
 Docs:
 
