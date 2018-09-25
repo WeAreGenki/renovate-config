@@ -1,6 +1,11 @@
+<!-- markdownlint-disable first-line-h1 -->
+
+[![NPM version](https://img.shields.io/npm/v/@wearegenki/renovate-config.svg)](https://www.npmjs.com/package/@wearegenki/renovate-config)
+[![Licence](https://img.shields.io/npm/l/@wearegenki/renovate-config.svg)](https://github.com/WeAreGenki/renovate-config/blob/master/LICENCE)
+
 # We Are Genki Renovate Bot Preset
 
-Sharable preset for the renovate bot. This makes it easier to change the config in one place rather than needing to update multiple projects.
+Sharable preset for the renovate bot 🤖. This makes it easier to change the config in one place rather than needing to update multiple projects.
 
 Docs:
 
