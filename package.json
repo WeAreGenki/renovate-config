@@ -1,5 +1,5 @@
 {
-  "name": "renovate-config",
+  "name": "@wearegenki/renovate-config",
   "version": "1.0.0",
   "description": "🤖 We Are Genki renovate bot preset",
   "repository": "https://github.com/WeAreGenki/renovate-config",
@@ -11,6 +11,7 @@
         "config:base"
       ],
       "labels": [
+        "upgrade",
         "bot"
       ],
       "prHourlyLimit": 99,
