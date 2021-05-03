@@ -1,5 +1,9 @@
 <!-- markdownlint-disable first-line-h1 -->
 
+> :rotating_light: **DEPRECATED: No longer maintained. Use <https://github.com/MaxMilton/renovate-config> instead.**
+
+---
+
 [![NPM version](https://img.shields.io/npm/v/@wearegenki/renovate-config.svg)](https://www.npmjs.com/package/@wearegenki/renovate-config)
 [![Licence](https://img.shields.io/npm/l/@wearegenki/renovate-config.svg)](https://github.com/WeAreGenki/renovate-config/blob/master/LICENCE)
 
